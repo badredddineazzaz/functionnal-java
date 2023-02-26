@@ -1,4 +1,4 @@
-# Mini-Projet : Lecture de fichier XML et recherche en Java fonctionnel
+## Mini-Projet : Lecture de fichier XML et recherche en Java fonctionnel
 # Auteurs
 AZZAZ Badreddine : badrazzaz03@gmail.com
 EZOUYEN Wail : waiezouyen10@gmail.com
